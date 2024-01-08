@@ -6,6 +6,11 @@
     --primary-color: #0f1b4c;
 }
 
+html,
+body {
+    scroll-behavior: smooth;
+}
+
 html {
     font-size: 62.5%; /* set root font-size la 10px (ban dau la 16px thi 62.5% la 10px) */
 }
